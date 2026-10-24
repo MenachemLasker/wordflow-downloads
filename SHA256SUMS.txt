@@ -1,2 +1,2 @@
-730a31cf741f79c0d4f0d18e1f0eb8c494240ac5717c6964b0ee51c1eeb027d5  Wordflow-Windows-Setup.exe
-ec4436a6a252a81635cdabf5c9392cb79dac977a29cb56bc2147db6bc77b92a0  Wordflow-Windows-x64.msi
+7bf9d9dbdb7a6bff3c303af916c39f231e7584aec8f60935831972a3f221a12c  Wordflow-Windows-Setup.exe
+a7828df16b66458e398df7fa8e2e91c5778cdeb161adc4a434afeee66d4dca47  Wordflow-Windows-x64.msi
